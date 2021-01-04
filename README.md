@@ -1,6 +1,7 @@
 # Inseretion-Traversal-Deletion-in-BST
-# include <stdio.h>
-# include <malloc.h>
+
+#include <stdio.h>
+#include <malloc.h>
 
 struct node
 {
